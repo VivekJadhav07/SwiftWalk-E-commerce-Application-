@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".productDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+        android:text="Welcome to ShoeSwift, the ultimate destination for shoe enthusiasts! Step into a world of style, comfort, and endless choices as you explore our extensive collection of footwear. Whether you're a trendsetter, an athlete, or someone who appreciates the perfect blend of fashion and functionality, we've got the perfect pair for you.
+
+        \nBrowse through our curated selection of the latest trends, classic designs, and cutting-edge technology. From sneakers to formal shoes, sandals to boots, we offer a diverse range that caters to every taste and occasion. Our collection is constantly updated to ensure you stay ahead in the fashion game." />
+</FrameLayout>

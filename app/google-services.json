@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087310817044",
+    "project_id": "swiftwalk-558b9",
+    "storage_bucket": "swiftwalk-558b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087310817044:android:1e7bb3f87b4b84567e4401",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSExj76yB-7ZXrOeh2GyRCPhz7mGjVzEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

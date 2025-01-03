@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="category_recycleview" type="id" />
+
+    <item name="category_recycler_view1" type="id" />
+    <item name="product_details_tablayout1" type="id" />
+</resources>

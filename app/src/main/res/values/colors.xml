@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btnRed">#9f0000</color>
+    <color name="successGreen">#11A10C</color>
+    <color name="coupenPurple">#3606b6</color>
+    <color name="coupen_red">#FF3030</color>
+    <color name="main">#FF7EBBF1</color>
+    <color name="btns">#066AC3</color>
+    <color name="rewards">#186FBC</color>
+    <color name="RecyclerViewBackground"> #d6d6d6</color>
+</resources>
